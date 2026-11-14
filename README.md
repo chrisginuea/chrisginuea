@@ -8,6 +8,7 @@ Hier sammle ich die Werkzeuge, die ich mir für meinen eigenen Workflow baue.
 
 - **[FBX-Viewer](https://chrisginuea.github.io/animation-tools/browser/fbx-viewer/)**: FBX-Modelle mit Texturen und Animationen direkt im Browser ansehen
 - **Anim Stitch Helper**: Positionssprünge zwischen Clips im Maya Time Editor ausgleichen
+- **Auto-Rigger**: schnelles Biped-Rig für Cartoon-Figuren
 
 ### 🎬 Mehr von mir
 
